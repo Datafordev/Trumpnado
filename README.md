@@ -1,7 +1,7 @@
-# Trumpnado
+#Trumpnado
 ####git America Great Again
 ####Nobody can git like Trump can
-####All your foo Are Belong https://github.com/ashfurrow/trumpsoundboardto Trump
+####All your foo Are Belong to Trump
 
 ##Trumpisms:
 
