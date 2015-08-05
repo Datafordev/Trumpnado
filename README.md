@@ -6,10 +6,7 @@
 ##Trumpisms:
 
 ####[TrumpSoundboard](https://github.com/ashfurrow/trumpsoundboard) by [@ashfurrow](https://github.com/ashfurrow/)
-Donald Trump is running for President. Relive your favorite memories from his announcement speech with this handy app!
-[Source Code](https://github.com/ashfurrow/trumpsoundboard)
-
-[Web App](http://trumpsoundboard.ashfurrow.com/)
+Donald Trump is running for President. Relive your favorite memories from his announcement speech with this handy app! Don't just peruse the [Source Code](https://github.com/ashfurrow/trumpsoundboard) play, remix, and mashup Trump Sound-bytes with a working, beta of the [TrumpSoundboard Web App](http://trumpsoundboard.ashfurrow.com/)
 
 ####[Trumpify](https://github.com/ahaym/trumpify) by [@ahaym](https://github.com/ahaym/) 
 Terrible donald Trump speech generator based on dada
