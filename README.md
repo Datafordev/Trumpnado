@@ -1,17 +1,27 @@
 # Trumpnado
 ####git America Great Again
 ####Nobody can git like Trump can
-####All your foo Are Belong to Trump
+####All your foo Are Belong https://github.com/ashfurrow/trumpsoundboardto Trump
 
-##Trumpisms
+##Trumpisms:
 
-[trumpify by ahaym: terrible donald Trump speech generator based on dada](https://github.com/ahaym/trumpify)
+####[TrumpSoundboard](https://github.com/ashfurrow/trumpsoundboard) by [@ashfurrow](https://github.com/ashfurrow/)
+Donald Trump is running for President. Relive your favorite memories from his announcement speech with this handy app!
+[Source Code](https://github.com/ashfurrow/trumpsoundboard))
+[Web App](http://trumpsoundboard.ashfurrow.com/)
 
-[BernieSandersBot by DeepNeuron: a Twitter bot to troll Donald Trump supporters](https://github.com/DeepNeuron/BernieSandersBot)
+####[Trumpify](https://github.com/ahaym/trumpify) by [@ahaym](https://github.com/ahaym/) 
+Terrible donald Trump speech generator based on dada
 
-[trump by jthurst3: Did Donald Trump actually say that?](https://github.com/jthurst3/trump)
+####[BernieSandersBot](https://github.com/DeepNeuron/BernieSandersBot) by [@DeepNeuron](https://github.com/DeepNeuron/) 
+Twitter bot to troll Donald Trump supporters
 
-[echo-trump by jackwn: Echo the Idiocy of Donal Trump](https://github.com/jackwm/echo-trump)
+####[Trump](https://github.com/jthurst3/trump) by [@jthurst3](https://github.com/jthurst3/) 
+Did Donald Trump actually say that?
 
-[donaldtrumpfor.us by marshallshen: Donald Trump for Murica](https://github.com/marshallshen/donaldtrumpfor.us)
+####[echo-trump](https://github.com/jackwm/echo-trump) by [@jackwn](https://github.com/jackwm/)
+Echo the Idiocy of Donald Trump
+
+####[donaldtrumpfor.us](https://github.com/marshallshen/donaldtrumpfor.us) by [@marshallshen](https://github.com/marshallshen/) 
+ Donald Trump for Murica
 
