@@ -7,7 +7,8 @@
 
 ####[TrumpSoundboard](https://github.com/ashfurrow/trumpsoundboard) by [@ashfurrow](https://github.com/ashfurrow/)
 Donald Trump is running for President. Relive your favorite memories from his announcement speech with this handy app!
-[Source Code](https://github.com/ashfurrow/trumpsoundboard))
+[Source Code](https://github.com/ashfurrow/trumpsoundboard)
+
 [Web App](http://trumpsoundboard.ashfurrow.com/)
 
 ####[Trumpify](https://github.com/ahaym/trumpify) by [@ahaym](https://github.com/ahaym/) 
@@ -23,5 +24,5 @@ Did Donald Trump actually say that?
 Echo the Idiocy of Donald Trump
 
 ####[donaldtrumpfor.us](https://github.com/marshallshen/donaldtrumpfor.us) by [@marshallshen](https://github.com/marshallshen/) 
- Donald Trump for Murica
+ Donald Trump for Murica website
 
