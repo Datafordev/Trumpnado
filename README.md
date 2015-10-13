@@ -1,5 +1,4 @@
-##Awesome List of  on Github:
-git America Great Again!
+##Huuuuge list of Trumpisms
 
 ##Generators
 * [Trumpify](https://github.com/ahaym/trumpify) by [@ahaym](https://github.com/ahaym/) 
